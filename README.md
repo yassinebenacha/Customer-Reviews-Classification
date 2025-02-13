@@ -50,7 +50,7 @@ graph TD;
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ennajari/Customer-Reviews-Classification.git
+   git clone https://github.com/yassinebenacha/Customer-Reviews-Classification.git
    cd Customer-Reviews-Classification
    ```
 
