@@ -1,0 +1,35 @@
+
+Training Report
+================
+
+Models:
+- RoBERTa
+- XLNet
+
+Training Epochs: 20
+
+Evaluation Metrics:
+
+RoBERTa:
+- Accuracy: 0.8572
+- Precision: 0.8602561736670985
+- Recall: 0.8572
+- F1 Score: 0.8584470266223454
+
+XLNet:
+- Accuracy: 0.8568
+- Precision: 0.8544281172687748
+- Recall: 0.8568
+- F1 Score: 0.8550951313767481
+
+Confusion Matrices:
+- RoBERTa: [[1466  320   91]
+ [ 188  552  390]
+ [  92  347 6554]]
+- XLNet: [[1425  339  113]
+ [ 177  508  445]
+ [  94  264 6635]]
+
+Models saved at:
+- RoBERTa: /content/drive/MyDrive/models/roberta_model
+- XLNet: /content/drive/MyDrive/models/xlnet_model
