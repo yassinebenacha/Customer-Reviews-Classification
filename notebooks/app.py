@@ -686,7 +686,7 @@ def main():
         st.header("by: Ennajari Abdellah")
         st.markdown("""
         Please, if you encounter any error or any problem, feel free to send me your feedback or a screenshot of the error:
-        - abdellahennajari2018@gmail.com
+        - yassinebenacha1@gmail.com
         """)
 
     # Main content based on selection
