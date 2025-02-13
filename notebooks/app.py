@@ -683,7 +683,7 @@ def main():
         - Support Vector Machine (SVM)
         """)
 
-        st.header("by: Ennajari Abdellah")
+        st.header("by: Yassine Ben Acha")
         st.markdown("""
         Please, if you encounter any error or any problem, feel free to send me your feedback or a screenshot of the error:
         - yassinebenacha1@gmail.com
